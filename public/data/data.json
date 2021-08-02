@@ -42,5 +42,14 @@
       "focused": true,
       "url": "/"
     }
+  ],
+  "banner": [
+    {
+      "background": "/images/banner.png",
+      "backgroundMobile": "/images/banner-mobile.png",
+      "subTitle": "Find charging",
+      "subTitle2": "fast",
+      "description": " Explore the largest public fast charging network in the U.S. — letting you charge in as little as 30 minutes"
+    }
   ]
 }

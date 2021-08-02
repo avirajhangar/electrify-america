@@ -3,9 +3,8 @@ import styled, { css } from "styled-components";
 import Link from "next/link";
 import { Fragment } from "react";
 
-import data from "../../public/data/nav.json";
+import data from "../../public/data/data.json";
 import Image from "next/dist/client/image";
-// import Search from "/images/search.svg";
 
 const Header = () => {
   const [menuOpen, setMenuOpen] = useState(false);

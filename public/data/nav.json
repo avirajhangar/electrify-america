@@ -1,0 +1,46 @@
+{
+  "nav": [
+    {
+      "id": "nav1",
+      "title": "Home",
+      "focused": false,
+      "url": "/"
+    },
+    {
+      "id": "nav2",
+      "title": "Locate a Charger",
+      "focused": false,
+      "url": "/"
+    },
+    {
+      "id": "nav3",
+      "title": "How it works",
+      "focused": false,
+      "url": "/"
+    },
+    {
+      "id": "nav4",
+      "title": "Pricing",
+      "focused": false,
+      "url": "/"
+    },
+    {
+      "id": "nav5",
+      "title": "Mobile App",
+      "focused": false,
+      "url": "/"
+    },
+    {
+      "id": "nav6",
+      "title": "Home Products",
+      "focused": true,
+      "url": "/"
+    },
+    {
+      "id": "nav7",
+      "title": "Commercial Solutions",
+      "focused": true,
+      "url": "/"
+    }
+  ]
+}

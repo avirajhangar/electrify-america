@@ -1,7 +1,7 @@
 import React, { useState, useEffect, Fragment } from "react";
 import styled from "styled-components";
 import Link from "next/link";
-import router, { useRouter } from "next/router";
+import router from "next/router";
 import data from "../../public/data/data.json";
 import Image from "next/dist/client/image";
 
@@ -13,11 +13,6 @@ const Posts = () => {
       setPostsDetails(data.charging);
     }
   }, []);
-
-  function redirectOnClick(url) {
-    // router.push(url);
-    alert(url);
-  }
 
   return (
     <PostsContainer>

@@ -122,5 +122,16 @@
         }
       ]
     }
+  ],
+  "aboutSection": [
+    {
+      "title": "about us",
+      "subTitle": " We're leading the charge of fast charging ",
+      "text": "We’re building out a convenient, reliable, customer-centric network of electric vehicle chargers nationwide—at workplaces, in communities, and on highways.",
+      "image": "/images/about_us.png",
+      "imageMob": "/images/about_us_phone.png",
+      "imageTab": "/images/about_us_ipad.png",
+      "url": "/"
+    }
   ]
 }

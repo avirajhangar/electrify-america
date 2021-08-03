@@ -133,5 +133,132 @@
       "imageTab": "/images/about_us_ipad.png",
       "url": "/"
     }
+  ],
+  "footer": [
+    {
+      "logo": "/images/icon2.svg",
+      "appLinks": [
+        {
+          "id": "l1",
+          "image": "/images/app-store.png",
+          "url": "/"
+        },
+        {
+          "id": "l2",
+          "image": "/images/google-play.png",
+          "url": "/"
+        }
+      ],
+      "social": [
+        {
+          "id": "s1",
+          "image": "/images/fb.svg",
+          "url": "/"
+        },
+        {
+          "id": "s2",
+          "image": "/images/insta.svg",
+          "url": "/"
+        },
+        {
+          "id": "s3",
+          "image": "/images/twi.svg",
+          "url": "/"
+        },
+        {
+          "id": "s4",
+          "image": "/images/lk.svg",
+          "url": "/"
+        },
+        {
+          "id": "s5",
+          "image": "/images/you.svg",
+          "url": "/"
+        }
+      ],
+      "nav": [
+        {
+          "id": "p1",
+          "title": "about",
+          "focused": true,
+          "url": "/",
+          "child": [
+            {
+              "id": "c1",
+              "title": "our plan",
+              "url": "/"
+            },
+            {
+              "id": "c2",
+              "title": "news & updates",
+              "url": "/"
+            },
+            {
+              "id": "c3",
+              "title": "our team",
+              "url": "/"
+            },
+            {
+              "id": "c4",
+              "title": "careers",
+              "url": "/"
+            },
+            {
+              "id": "c5",
+              "title": "green city",
+              "url": "/"
+            }
+          ]
+        },
+        {
+          "id": "p2",
+          "title": "contact us",
+          "focused": true,
+          "url": "/",
+          "child": [
+            {
+              "id": "c6",
+              "title": "submissions",
+              "url": "/"
+            },
+            {
+              "id": "c7",
+              "title": "sign up for updates",
+              "url": "/"
+            },
+            {
+              "id": "c8",
+              "title": "marketing opportunities",
+              "url": "/"
+            }
+          ]
+        },
+        {
+          "id": "p3",
+          "title": "home products",
+          "focused": true,
+          "url": "/",
+          "child": []
+        },
+        {
+          "id": "p4",
+          "title": "commercial solutions",
+          "focused": true,
+          "url": "/",
+          "child": []
+        }
+      ],
+      "copyright": [
+        {
+          "text": "© 2021 Electrify America",
+          "links": [
+            { "id": "s5", "text": "privacy", "url": "/" },
+            { "id": "s5", "text": "terms of use", "url": "/" },
+            { "id": "s5", "text": "social media house rules", "url": "/" }
+          ],
+          "phone": "1-833-632-2778"
+        }
+      ]
+    }
   ]
 }

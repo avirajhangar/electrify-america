@@ -1,8 +1,6 @@
 import React, { useState, useEffect, Fragment } from "react";
 import styled from "styled-components";
-import Link from "next/link";
 import data from "../../public/data/data.json";
-import Image from "next/dist/client/image";
 
 const Banner = () => {
   const [bannerDetails, setbannerDetails] = useState([]);

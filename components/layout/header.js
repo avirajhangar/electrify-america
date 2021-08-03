@@ -181,8 +181,9 @@ const PageMask = styled.div`
 const RightNav = styled.div`
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-end;
   height: 100%;
+  width: 65%;
 `;
 
 const SearchContainer = styled.div`
@@ -254,5 +255,10 @@ const SearchInputContainer = styled.div`
     border-bottom: 1px solid hsla(0, 0%, 100%, 0.5);
     color: white;
     padding: 0 0 10px 15px;
+    width: 100%;
+  }
+
+  input:focus {
+    outline: none;
   }
 `;

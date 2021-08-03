@@ -51,5 +51,76 @@
       "subTitle2": "fast",
       "description": " Explore the largest public fast charging network in the U.S. — letting you charge in as little as 30 minutes"
     }
+  ],
+  "charging": [
+    {
+      "title": "Learn about charging with",
+      "title1": "Electrify America",
+      "finalBlock": [
+        {
+          "title": "Contactless In-app Payment",
+          "description": "Download the Electrify America mobile app to pay for your charging session right from your phone.",
+          "links": [
+            {
+              "id": "l1",
+              "image": "/images/app-store.png",
+              "url": "/"
+            },
+            {
+              "id": "l2",
+              "image": "/images/google-play.png",
+              "url": "/"
+            }
+          ]
+        }
+      ],
+      "postLists": [
+        {
+          "id": "post1",
+          "title": "BECOME A MEMBER",
+          "description": "Need to fill up on the road? Enjoy discounted pricing with our Pass+ monthly subscription plan.",
+          "image": "/images/img/member.png",
+          "imageTablet": "/images/member.png",
+          "imageMobile": "/images/member-mobile.png",
+          "url": "/"
+        },
+        {
+          "id": "post2",
+          "title": "RENEWABLE ENERGY & SUSTAINABILITY ",
+          "description": "We invest in renewable energy solutions like solar EV chargers in our effort to lower our energy-related emissions overall and improve your EV charging experience.",
+          "image": "/images/Renewable_Energy.png",
+          "imageTablet": "/images/Renewable_Energy.png",
+          "imageMobile": "/images/Renewable_Energy.png",
+          "url": "/"
+        },
+        {
+          "id": "post3",
+          "title": "MOBILE APP",
+          "description": "Find stations, start charging, track and end your session from your smartphone with our app for iOS and Android.",
+          "image": "/images/mobile_app.png",
+          "imageTablet": "/images/mobile_app.png",
+          "imageMobile": "/images/mobile_app_mobile.png",
+          "url": "/"
+        },
+        {
+          "id": "post4",
+          "title": "HOME PRODUCTS",
+          "description": "Simplify life with HomeStationTM. Our Level 2 EV home charger offers remote start, stop, and scheduling via the Electrify America app for a streamlined charging experience.",
+          "image": "/images/home_charger.png",
+          "imageTablet": "/images/home_charger.png",
+          "imageMobile": "/images/home_charger.png",
+          "url": "/"
+        },
+        {
+          "id": "post5",
+          "title": "SUPPORT & TROUBLESHOOTING",
+          "description": "Have a question or issue with a charging station? Our team is here to help. Call us at 1-833-632-2778 or use our contact form.",
+          "image": "/images/support_desktop.png",
+          "imageTablet": "/images/support_tablet.png",
+          "imageMobile": "/images/support_phone.png",
+          "url": "/"
+        }
+      ]
+    }
   ]
 }
